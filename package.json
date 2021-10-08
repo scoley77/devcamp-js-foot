@@ -1,0 +1,19 @@
+{
+  "name": "devcamp-js-foot",
+  "version": "0.1.0",
+  "description": "This package allows for a dynamic footer to be generated for JS application with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoley77/devcamp-js-foot.git"
+  },
+  "author": "Sara Coley <scoleytech@gmail.com> (https://www.npmjs.com/~scoley77)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scoley77/devcamp-js-foot/issues"
+  },
+  "homepage": "https://github.com/scoley77/devcamp-js-foot#readme"
+}
